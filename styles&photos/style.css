@@ -17,6 +17,7 @@ html {
 #back2Top {
     margin-right: 10px;
     width: 50px;
+    border-radius: 3px;
     line-height: 50px;
     overflow: hidden;
     z-index: 999;
